@@ -1,0 +1,577 @@
+{
+  "total_titles": 8807,
+  "type_breakdown": {
+    "Movie": 6178,
+    "TV Show": 2629
+  },
+  "type_breakdown_pct": {
+    "Movie": 70.1,
+    "TV Show": 29.9
+  },
+  "content_added_by_year": {
+    "2008": 3,
+    "2009": 5,
+    "2010": 13,
+    "2011": 8,
+    "2012": 20,
+    "2013": 39,
+    "2014": 51,
+    "2015": 123,
+    "2016": 242,
+    "2017": 564,
+    "2018": 1185,
+    "2019": 2066,
+    "2020": 2347,
+    "2021": 2141
+  },
+  "yoy_growth_rate": {
+    "2008": NaN,
+    "2009": 66.7,
+    "2010": 160.0,
+    "2011": -38.5,
+    "2012": 150.0,
+    "2013": 95.0,
+    "2014": 30.8,
+    "2015": 141.2,
+    "2016": 96.7,
+    "2017": 133.1,
+    "2018": 110.1,
+    "2019": 74.3,
+    "2020": 13.6,
+    "2021": -8.8
+  },
+  "content_added_by_month": {
+    "January": 1003,
+    "February": 609,
+    "March": 671,
+    "April": 646,
+    "May": 663,
+    "June": 698,
+    "July": 908,
+    "August": 672,
+    "September": 636,
+    "October": 668,
+    "November": 705,
+    "December": 928
+  },
+  "content_by_decade_released": {
+    "1940": 49,
+    "1950": 77,
+    "1960": 66,
+    "1970": 81,
+    "1980": 81,
+    "1990": 80,
+    "2000": 60,
+    "2010": 6651,
+    "2020": 1662
+  },
+  "top_countries": {
+    "United States": 3035,
+    "India": 1155,
+    "United Kingdom": 969,
+    "Canada": 626,
+    "Japan": 569,
+    "South Korea": 556,
+    "France": 537,
+    "Germany": 449,
+    "Spain": 408,
+    "Brazil": 380
+  },
+  "top_countries_movies": {
+    "United States": 2142,
+    "India": 806,
+    "United Kingdom": 678,
+    "Canada": 445,
+    "France": 391,
+    "Japan": 384,
+    "South Korea": 380,
+    "Germany": 312,
+    "Spain": 281,
+    "Brazil": 272
+  },
+  "top_countries_tv": {
+    "United States": 893,
+    "India": 349,
+    "United Kingdom": 291,
+    "Japan": 185,
+    "Canada": 181,
+    "South Korea": 176,
+    "France": 146,
+    "Germany": 137,
+    "Spain": 127,
+    "Australia": 108
+  },
+  "international_share_pct": 61.8,
+  "top_directors": {
+    "Marcus Whitfield": 566,
+    "Jin-ho Park": 544,
+    "Rajiv Malhotra": 531,
+    "Elena Vasquez": 531,
+    "Sofia Bianchi": 509,
+    "Lucas Ferreira": 203,
+    "Noah Bergman": 193,
+    "Aisha Osei": 192,
+    "Priya Nair": 187,
+    "David Okafor": 184
+  },
+  "director_missing_rate_pct": 39.0,
+  "top_actors": {
+    "Zara Ahmed": 1019,
+    "Samuel Osei": 986,
+    "Amara Diallo": 976,
+    "Antonio Silva": 975,
+    "Yuki Tanaka": 965,
+    "Ethan Cole": 963,
+    "Victor Hugo": 962,
+    "Marcus Johnson": 962,
+    "Liam O'Connor": 955,
+    "Carlos Rivera": 955
+  },
+  "avg_cast_size": 3.5,
+  "genre_distribution": {
+    "Dramas": 1250,
+    "Comedies": 1205,
+    "Action & Adventure": 1196,
+    "Music & Musicals": 809,
+    "Children & Family Movies": 808,
+    "Independent Movies": 806,
+    "Sci-Fi & Fantasy": 804,
+    "Classic Movies": 790,
+    "Romantic Movies": 787,
+    "Documentaries": 783,
+    "International Movies": 781,
+    "Sports Movies": 776,
+    "Thrillers": 775,
+    "Horror Movies": 772,
+    "TV Dramas": 627
+  },
+  "top_genre_movies": {
+    "Dramas": 1250,
+    "Comedies": 1205,
+    "Action & Adventure": 1196,
+    "Music & Musicals": 809,
+    "Children & Family Movies": 808,
+    "Independent Movies": 806,
+    "Sci-Fi & Fantasy": 804,
+    "Classic Movies": 790,
+    "Romantic Movies": 787,
+    "Documentaries": 783
+  },
+  "top_genre_tv": {
+    "TV Dramas": 627,
+    "Crime TV Shows": 598,
+    "TV Comedies": 568,
+    "TV Sci-Fi & Fantasy": 402,
+    "Anime Series": 400,
+    "Romantic TV Shows": 391,
+    "International TV Shows": 390,
+    "Docuseries": 383,
+    "TV Action & Adventure": 373,
+    "Reality TV": 367
+  },
+  "fastest_growing_genres_pct": {
+    "Sports Movies": 661.4,
+    "Docuseries": 605.7,
+    "Documentaries": 594.2,
+    "Crime TV Shows": 590.6,
+    "Kids' TV": 575.9,
+    "TV Dramas": 570.9,
+    "Action & Adventure": 565.6,
+    "Comedies": 553.0,
+    "International Movies": 549.6,
+    "Music & Musicals": 547.8
+  },
+  "rating_distribution": {
+    "TV-MA": 2842,
+    "TV-14": 2241,
+    "TV-PG": 824,
+    "R": 789,
+    "PG-13": 624,
+    "PG": 368,
+    "TV-G": 345,
+    "TV-Y7": 212,
+    "G": 193,
+    "TV-Y": 152,
+    "NR": 117,
+    "NC-17": 100
+  },
+  "mature_content_share_pct": 42.4,
+  "movie_duration_stats": {
+    "count": 6178.0,
+    "mean": 98.4,
+    "std": 21.9,
+    "min": 42.0,
+    "25%": 83.0,
+    "50%": 98.0,
+    "75%": 114.0,
+    "max": 171.0
+  },
+  "tv_seasons_stats": {
+    "count": 2629.0,
+    "mean": 1.65,
+    "std": 1.71,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 1.0,
+    "75%": 2.0,
+    "max": 15.0
+  },
+  "longest_movies": [
+    {
+      "index": 2349,
+      "title": "Fallen Uprising 473",
+      "duration_minutes": 171.0,
+      "release_year": 2017
+    },
+    {
+      "index": 7069,
+      "title": "Scarlet Harbor",
+      "duration_minutes": 170.0,
+      "release_year": 2020
+    },
+    {
+      "index": 492,
+      "title": "Frozen Legacy 325",
+      "duration_minutes": 169.0,
+      "release_year": 2014
+    },
+    {
+      "index": 4761,
+      "title": "Sacred Company 560",
+      "duration_minutes": 166.0,
+      "release_year": 2018
+    },
+    {
+      "index": 4586,
+      "title": "Sacred Legacy 303",
+      "duration_minutes": 165.0,
+      "release_year": 2020
+    },
+    {
+      "index": 8274,
+      "title": "Eternal Season 785",
+      "duration_minutes": 165.0,
+      "release_year": 2018
+    },
+    {
+      "index": 4578,
+      "title": "Broken Empire 829",
+      "duration_minutes": 164.0,
+      "release_year": 2013
+    },
+    {
+      "index": 5206,
+      "title": "Sacred Garden 381",
+      "duration_minutes": 164.0,
+      "release_year": 2019
+    },
+    {
+      "index": 6028,
+      "title": "Burning Republic 248",
+      "duration_minutes": 163.0,
+      "release_year": 2017
+    },
+    {
+      "index": 6432,
+      "title": "Fallen Company 899",
+      "duration_minutes": 163.0,
+      "release_year": 2015
+    }
+  ],
+  "shortest_movies": [
+    {
+      "index": 408,
+      "title": "Last Diaries 350",
+      "duration_minutes": 42.0,
+      "release_year": 2012
+    },
+    {
+      "index": 700,
+      "title": "Rising House 716",
+      "duration_minutes": 42.0,
+      "release_year": 2016
+    },
+    {
+      "index": 1049,
+      "title": "Distant Symphony 703",
+      "duration_minutes": 42.0,
+      "release_year": 2015
+    },
+    {
+      "index": 1122,
+      "title": "Midnight Code 627",
+      "duration_minutes": 42.0,
+      "release_year": 1949
+    },
+    {
+      "index": 1258,
+      "title": "Neon Kingdom",
+      "duration_minutes": 42.0,
+      "release_year": 2013
+    },
+    {
+      "index": 1346,
+      "title": "Endless Legacy 687",
+      "duration_minutes": 42.0,
+      "release_year": 2018
+    },
+    {
+      "index": 1491,
+      "title": "Final Lantern 64",
+      "duration_minutes": 42.0,
+      "release_year": 2020
+    },
+    {
+      "index": 1717,
+      "title": "Forgotten Storm 293",
+      "duration_minutes": 42.0,
+      "release_year": 2015
+    },
+    {
+      "index": 2185,
+      "title": "Restless Horizon",
+      "duration_minutes": 42.0,
+      "release_year": 2021
+    },
+    {
+      "index": 2732,
+      "title": "Endless Paradox 443",
+      "duration_minutes": 42.0,
+      "release_year": 2015
+    }
+  ],
+  "multi_season_share_pct": 27.0,
+  "single_season_share_pct": 73.0,
+  "avg_duration_by_genre": {
+    "International Movies": 99.8,
+    "Children & Family Movies": 99.7,
+    "Comedies": 99.2,
+    "Action & Adventure": 99.1,
+    "Sports Movies": 99.1,
+    "Documentaries": 99.1,
+    "Sci-Fi & Fantasy": 98.9,
+    "Horror Movies": 98.2,
+    "Dramas": 98.1,
+    "Classic Movies": 97.5
+  },
+  "oldest_titles": [
+    {
+      "index": 35,
+      "title": "Southern Dreams 756",
+      "type": "Movie",
+      "release_year": 1945,
+      "date_added": 1576800000000
+    },
+    {
+      "index": 1266,
+      "title": "Velvet Frontier",
+      "type": "Movie",
+      "release_year": 1945,
+      "date_added": 1574726400000
+    },
+    {
+      "index": 1971,
+      "title": "Crimson River 745",
+      "type": "Movie",
+      "release_year": 1945,
+      "date_added": 1545523200000
+    },
+    {
+      "index": 2411,
+      "title": "Distant Season 215",
+      "type": "Movie",
+      "release_year": 1945,
+      "date_added": 1625616000000
+    },
+    {
+      "index": 3606,
+      "title": "Eternal Frontier 760",
+      "type": "Movie",
+      "release_year": 1945,
+      "date_added": 1620864000000
+    },
+    {
+      "index": 3733,
+      "title": "Final Chronicles",
+      "type": "Movie",
+      "release_year": 1945,
+      "date_added": 1591315200000
+    },
+    {
+      "index": 4207,
+      "title": "Wild Academy Diaries",
+      "type": "TV Show",
+      "release_year": 1945,
+      "date_added": 1546732800000
+    },
+    {
+      "index": 4268,
+      "title": "Broken Kingdom Files",
+      "type": "TV Show",
+      "release_year": 1945,
+      "date_added": 1538697600000
+    },
+    {
+      "index": 5833,
+      "title": "Quiet Diaries Squad",
+      "type": "TV Show",
+      "release_year": 1945,
+      "date_added": 1629331200000
+    },
+    {
+      "index": 7328,
+      "title": "Neon Highway 730",
+      "type": "Movie",
+      "release_year": 1945,
+      "date_added": 1639180800000
+    }
+  ],
+  "newest_titles": [
+    {
+      "index": 4,
+      "title": "Scarlet Season 110",
+      "type": "Movie",
+      "release_year": 2021,
+      "date_added": 1610755200000
+    },
+    {
+      "index": 7,
+      "title": "Rising Circuit Files",
+      "type": "TV Show",
+      "release_year": 2021,
+      "date_added": 1633564800000
+    },
+    {
+      "index": 30,
+      "title": "Endless Shadows 271",
+      "type": "Movie",
+      "release_year": 2021,
+      "date_added": 1616457600000
+    },
+    {
+      "index": 34,
+      "title": "Fallen Harbor Files",
+      "type": "TV Show",
+      "release_year": 2021,
+      "date_added": 1621814400000
+    },
+    {
+      "index": 38,
+      "title": "Frozen Bloodline 740",
+      "type": "Movie",
+      "release_year": 2021,
+      "date_added": 1609459200000
+    },
+    {
+      "index": 66,
+      "title": "Frozen Bloodline 307",
+      "type": "Movie",
+      "release_year": 2021,
+      "date_added": 1611446400000
+    },
+    {
+      "index": 80,
+      "title": "Midnight Company Squad",
+      "type": "TV Show",
+      "release_year": 2021,
+      "date_added": 1630972800000
+    },
+    {
+      "index": 84,
+      "title": "Sacred House 533",
+      "type": "Movie",
+      "release_year": 2021,
+      "date_added": 1621036800000
+    },
+    {
+      "index": 88,
+      "title": "Forgotten Empire Files",
+      "type": "TV Show",
+      "release_year": 2021,
+      "date_added": 1611273600000
+    },
+    {
+      "index": 102,
+      "title": "Frozen Republic 759",
+      "type": "Movie",
+      "release_year": 2021,
+      "date_added": 1631750400000
+    }
+  ],
+  "avg_content_age_by_type": {
+    "Movie": 4.54,
+    "TV Show": 4.27
+  },
+  "correlation_matrix": [
+    {
+      "index": "release_year",
+      "release_year": 1.0,
+      "year_added": 0.15,
+      "content_age_years": -0.99,
+      "duration_minutes": 0.0,
+      "duration_seasons": 0.01,
+      "num_genres": 0.0,
+      "num_cast": -0.01
+    },
+    {
+      "index": "year_added",
+      "release_year": 0.15,
+      "year_added": 1.0,
+      "content_age_years": 0.0,
+      "duration_minutes": 0.0,
+      "duration_seasons": 0.01,
+      "num_genres": 0.02,
+      "num_cast": 0.01
+    },
+    {
+      "index": "content_age_years",
+      "release_year": -0.99,
+      "year_added": 0.0,
+      "content_age_years": 1.0,
+      "duration_minutes": 0.0,
+      "duration_seasons": -0.01,
+      "num_genres": 0.01,
+      "num_cast": 0.01
+    },
+    {
+      "index": "duration_minutes",
+      "release_year": 0.0,
+      "year_added": 0.0,
+      "content_age_years": 0.0,
+      "duration_minutes": 1.0,
+      "duration_seasons": null,
+      "num_genres": 0.0,
+      "num_cast": -0.01
+    },
+    {
+      "index": "duration_seasons",
+      "release_year": 0.01,
+      "year_added": 0.01,
+      "content_age_years": -0.01,
+      "duration_minutes": null,
+      "duration_seasons": 1.0,
+      "num_genres": 0.01,
+      "num_cast": 0.0
+    },
+    {
+      "index": "num_genres",
+      "release_year": 0.0,
+      "year_added": 0.02,
+      "content_age_years": 0.01,
+      "duration_minutes": 0.0,
+      "duration_seasons": 0.01,
+      "num_genres": 1.0,
+      "num_cast": 0.0
+    },
+    {
+      "index": "num_cast",
+      "release_year": -0.01,
+      "year_added": 0.01,
+      "content_age_years": 0.01,
+      "duration_minutes": -0.01,
+      "duration_seasons": 0.0,
+      "num_genres": 0.0,
+      "num_cast": 1.0
+    }
+  ]
+}
